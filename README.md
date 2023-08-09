@@ -1,2 +1,1 @@
-# bradly
-prueba de mi primer repositorio
+mi primera practica con git hub
